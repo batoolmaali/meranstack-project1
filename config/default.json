@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://batool:1234batool@socialnetworkcluster.riejx.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
